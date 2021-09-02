@@ -1,6 +1,6 @@
 # whoami?
 
-No one really. I'm a 19 year old soon to be 20, planning on majoring in Applied Mathematics and Computing. I'm open minded, enjoy learning and most importantly enjoy using what I've learned creatively to make things that give me a sort of satisfaction.
+No one really. I'm a 19 year old soon to be 20, planning on majoring in Applied Mathematics and Computing. I enjoy learning and using what I've learned creatively to make things. Sometimes they work, most times they don't, yet the satisfaction I get from them is the same.
 
 ## **What will I be posting about?**
 
