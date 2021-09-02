@@ -1,4 +1,4 @@
-# **whoami?**
+# whoami?
 
 No one really. I'm a 19 year old soon to be 20, planning on majoring in Applied Mathematics and Computing. I'm open minded, enjoy learning and most importantly enjoy using what I've learned creatively to make things that give me a sort of satisfaction.
 
