@@ -4,7 +4,7 @@ No one really. I'm a 19 year old soon to be 20, planning on majoring in Applied 
 
 ## **What will I be posting about?**
 
-I'll be sharing many things on this blog, it might be a simple program in which I've delved into a topic of interest to me, an elegant proof that I found or came up with(doubt), something cool I learned how to do, or a song, artwork, thought and idea that went through my head.
+I'll be sharing many things on this blog, it might be a simple program in which I've delved into a topic of interest to me, an elegant proof that I found, something cool that I learned how to do, a song, an artwork, a thought or an idea that went through my head. As long as I find joy in studying, writing about it and explaining it, you will most probably find it on here.
 
 The topics I'm interested in are: 
 
@@ -21,6 +21,9 @@ I'm basically a hundred percent sure I'm missing something, yet I guess we'll fi
 
 ## **Why am I writing a blog?**
 
-I guess that's the easiest to answer, many times while looking to learn something, I've found the information, dull; the exposition, lacking and the explanation, less than ideal. This will be my remedy to that. I will be posting what I'm learning, creating and discovering in the hopes that I'll understand it better; and that you might have a respite from the dullness of the countless internet "guru's", "coders", "developers", and all others who seem to want to impart on you useless, repetitive and subpar information in the effort that they will get you to buy some of their equally garbage products. 
+I guess that's the easiest to answer, many times while looking to learn something, I've found the information, dull; the exposition, lacking and the explanation, less than ideal. My hope is that I can put a new spin in my explanation of some topics, as well as rendering the content more fun and a bit easier to swallow. I will be posting what I'm learning, creating and discovering in the hopes that I'll understand it better, which in turn will help you understand it as well. 
 
-None of that exists on this blog, I'm not really looking towards monetizing it, let alone selling you something. And that comes from the fact that I'm ultimately doing this for myself, in the hopes that I can document my journey throughout my interests.
+There are **two** things you can be sure of;
+
+1. I'm not trying to monetize anything, as such you can rest assured that my opinions are entirely my own, and no one else's.
+2. I don't use b.s jargon. If you want to feel important, refer to [this](https://www.atrixnet.com/bs-generator.html).
