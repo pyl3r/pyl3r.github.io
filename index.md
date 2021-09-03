@@ -26,4 +26,4 @@ I guess that's the easiest to answer, many times while looking to learn somethin
 There are **two** things you can be sure of;
 
 1. I'm not trying to monetize anything, as such you can rest assured that my opinions are entirely my own, and no one else's.
-2. I don't use b.s jargon. If you want to feel important, refer to [this](https://www.atrixnet.com/bs-generator.html).
+2. I don't use useless jargon. If you want to feel important, refer to [this](https://www.atrixnet.com/bs-generator.html).
