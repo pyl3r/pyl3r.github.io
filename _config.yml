@@ -18,7 +18,7 @@ github_username: "pyl3r"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "dark-side"
+theme: "minima"
 
 rss: rss
 
